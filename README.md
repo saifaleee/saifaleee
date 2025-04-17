@@ -26,6 +26,7 @@
 
 </details>
 
+
 ---
 
 ## 🛠️ My Blockchain Toolkit
@@ -35,107 +36,76 @@ Here are some of the technologies and tools I work with:
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="# आने वाले प्रोजेक्ट्स">
-        <img src="https://github.com/tandadevr/tandadevr/blob/main/assets/solidity.png?raw=true" alt="Solidity" width="48" height="48" />
-      </a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" alt="Solidity" width="48" height="48" />
       <br>Solidity
     </td>
      <td align="center" width="96">
-      <a href="# आने वाले प्रोजेक्ट्स">
-        <img src="https://github.com/tandadevr/tandadevr/blob/main/assets/ganache.png?raw=true" alt="Ganache" width="48" height="48" />
-      </a>
+      <img src="https://www.trufflesuite.com/img/ganache-logomark.svg" alt="Ganache" width="48" height="48" />
       <br>Ganache
     </td>
     <td align="center" width="96">
-      <a href="# आने वाले प्रोजेक्ट्स">
-        <img src="https://github.com/tandadevr/tandadevr/blob/main/assets/hardhat.png?raw=true" alt="Hardhat" width="48" height="48" />
-      </a>
+      <img src="https://camo.githubusercontent.com/7cd5884314b069b4875c51796b018c8d21ad203f646871b437b841325b9306f7/68747470733a2f2f7777772e636f696e6e6f6d69612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30382f686172646861742d6c6f676f2d69636f6e2e706e67" alt="Hardhat" width="48" height="48" />
       <br>Hardhat
     </td>
      <td align="center" width="96">
-      <a href="# आने वाले प्रोजेक्ट्स">
-        <img src="https://github.com/tandadevr/tandadevr/blob/main/assets/truffle.png?raw=true" alt="Truffle" width="48" height="48" />
-      </a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/truffle/truffle-plain.svg" alt="Truffle" width="48" height="48" />
       <br>Truffle
     </td>
     <td align="center" width="96">
-      <a href="# आने वाले प्रोजेक्ट्स">
-        <img src="https://github.com/tandadevr/tandadevr/blob/main/assets/web3js.png?raw=true" alt="Web3.js" width="48" height="48" />
-      </a>
+      <img src="https://img.shields.io/badge/Web3.js-F16529?style=for-the-badge&logo=javascript&logoColor=white" alt="Web3.js" width="48" height="48" />
       <br>Web3.js
     </td>
      <td align="center" width="96">
-      <a href="# आने वाले प्रोजेक्ट्स">
-        <img src="https://github.com/tandadevr/tandadevr/blob/main/assets/ethersjs.png?raw=true" alt="Ethers.js" width="48" height="48" />
-      </a>
+      <img src="https://img.shields.io/badge/Ethers.js-343A40?style=for-the-badge&logo=javascript&logoColor=white" alt="Ethers.js" width="48" height="48" />
       <br>Ethers.js
     </td>
      <td align="center" width="96">
-      <a href="# आने वाले प्रोजेक्ट्स">
-        <img src="https://github.com/tandadevr/tandadevr/blob/main/assets/react.png?raw=true" alt="React" width="48" height="48" />
-      </a>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" width="48" height="48" />
       <br>React
     </td>
       <td align="center" width="96">
-      <a href="# आने वाले प्रोजेक्ट्स">
-        <img src="https://github.com/tandadevr/tandadevr/blob/main/assets/nodejs.png?raw=true" alt="Node.js" width="48" height="48" />
-      </a>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" width="48" height="48" />
       <br>Node.js
     </td>
   </tr>
    <tr>
     <td align="center" width="96">
-      <a href="# आने वाले प्रोजेक्ट्स">
-        <img src="https://github.com/tandadevr/tandadevr/blob/main/assets/javascript.png?raw=true" alt="JavaScript" width="48" height="48" />
-      </a>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="48" height="48" />
       <br>JavaScript
     </td>
       <td align="center" width="96">
-      <a href="# आने वाले प्रोजेक्ट्स">
-        <img src="https://github.com/tandadevr/tandadevr/blob/main/assets/typescript.png?raw=true" alt="TypeScript" width="48" height="48" />
-      </a>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" width="48" height="48" />
       <br>TypeScript
     </td>
        <td align="center" width="96">
-      <a href="# आने वाले प्रोजेक्ट्स">
-        <img src="https://github.com/tandadevr/tandadevr/blob/main/assets/html5.png?raw=true" alt="HTML5" width="48" height="48" />
-      </a>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" width="48" height="48" />
       <br>HTML5
     </td>
        <td align="center" width="96">
-      <a href="# आने वाले प्रोजेक्ट्स">
-        <img src="https://github.com/tandadevr/tandadevr/blob/main/assets/css3.png?raw=true" alt="CSS3" width="48" height="48" />
-      </a>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" width="48" height="48" />
       <br>CSS3
     </td>
          <td align="center" width="96">
-      <a href="# आने वाले प्रोजेक्ट्स">
-        <img src="https://github.com/tandadevr/tandadevr/blob/main/assets/git.png?raw=true" alt="Git" width="48" height="48" />
-      </a>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="48" height="48" />
       <br>Git
     </td>
              <td align="center" width="96">
-      <a href="# आने वाले प्रोजेक्ट्स">
-        <img src="https://github.com/tandadevr/tandadevr/blob/main/assets/github.png?raw=true" alt="GitHub" width="48" height="48" />
-      </a>
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="48" height="48" />
       <br>GitHub
     </td>
      <td align="center" width="96">
-      <a href="# आने वाले प्रोजेक्ट्स">
-        <img src="https://github.com/tandadevr/tandadevr/blob/main/assets/vscode.png?raw=true" alt="VS Code" width="48" height="48" />
-      </a>
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" width="48" height="48" />
       <br>VS Code
     </td>
         <td align="center" width="96">
-      <a href="# आने वाले प्रोजेक्ट्स">
-        <img src="https://github.com/tandadevr/tandadevr/blob/main/assets/postman.png?raw=true" alt="Postman" width="48" height="48" />
-      </a>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" width="48" height="48" />
       <br>Postman
     </td>
   </tr>
 </table>
 
 ---
+
 
 ## 📊 GitHub Stats
 
